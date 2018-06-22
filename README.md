@@ -1,12 +1,9 @@
-# This dataset contains details of critical reviews for children's books first published by Angus & Robertson between 1897 and 1933.
-This data is visualised as a Leaflet map at https://rebekahward.github.io/leaflet-maps-with-google-sheets/.
-The linked Google Sheets doc is available at https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit#gid=0.
-
-## Create your own Leaflet Map with a Linked Google Sheets Template and GeoJSON data on GitHub
-- See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
+#Angus & Roberston Book Reviews
+This dataset contains details of critical reviews for children's books first published by Angus & Robertson between 1897 and 1933.
+This data is visualised as a Leaflet map at https://rebekahward.github.io/leaflet-maps-with-google-sheets/. The linked Google Sheets doc is available at https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit#gid=0.
 
 ## Credits (and licenses)
-Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
+Originally developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
 - Inspired by: Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause)
 - Leaflet v1.0.3 https://leafletjs.com (BSD-2-Clause)
 - jQuery v3.2.0 https://code.jquery.com (MIT)
@@ -24,7 +21,3 @@ Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](h
 - jQuery-CSV (v0.71) https://github.com/evanplaice/jquery-csv (MIT)
 - DataTables (v1.10.13) by SpryMedia Ltd. https://datatables.net (MIT)
 - [Leaflet Control Geocoder](https://github.com/perliedman/leaflet-control-geocoder) by @perliedman (BSD 2-Clause)
-
-## Please submit any pull requests to our DEV repo
-- Leaflet Map FOR DEVELOPMENT https://jackdougherty.github.io/leaflet-maps-with-google-sheets-dev/index.html
-- Google Sheet FOR DEVELOPMENT https://docs.google.com/spreadsheets/d/1_xjrH3gSImzRKqIkhRAqpAAMjH387yaBWfGbidkKtqM/
