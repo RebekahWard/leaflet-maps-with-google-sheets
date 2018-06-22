@@ -1,4 +1,4 @@
-#Angus & Roberston Book Reviews
+# Angus & Roberston Book Reviews
 This dataset contains details of critical reviews for children's books first published by Angus & Robertson between 1897 and 1933.
 This data is visualised as a Leaflet map at https://rebekahward.github.io/leaflet-maps-with-google-sheets/. The linked Google Sheets doc is available at https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit#gid=0.
 
