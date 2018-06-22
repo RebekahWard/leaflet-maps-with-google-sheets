@@ -1,13 +1,8 @@
-# Leaflet Maps with Google Sheets
-Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on GitHub
+# This dataset contains details of critical reviews for children's books first published by Angus & Robertson between 1897 and 1933.
+This data is visualised as a Leaflet map at https://rebekahward.github.io/leaflet-maps-with-google-sheets/.
+The linked Google Sheets doc is available at https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit#gid=0.
 
-![Preview](preview.jpg)
-
-## Live links (replace with your own)
-- Leaflet Map   https://rebekahward.github.io/leaflet-maps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit#gid=0
-
-## Create your own
+## Create your own Leaflet Map with a Linked Google Sheets Template and GeoJSON data on GitHub
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
 
 ## Credits (and licenses)
