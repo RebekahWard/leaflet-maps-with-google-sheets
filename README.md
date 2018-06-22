@@ -1,6 +1,6 @@
 # Angus & Roberston Book Reviews
 This dataset contains details of critical reviews for 57 Australian children's books first published by Angus & Robertson between 1897 and 1933. These reviews are contained in the Angus & Robertson Archive at the State Library of NSW (Book Reviews in Bound Volumes, 1894-1970 at ML MSS 3269, Boxed 478-531).
-This dataset has been visualised as a Leaflet map at https://rebekahward.github.io/leaflet-maps-with-google-sheets/. The Google Sheets file is available at https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit?usp=sharing.
+This dataset has been visualised as a Leaflet map at https://rebekahward.github.io/leaflet-maps-with-google-sheets/. The original Google Sheets file is available at https://docs.google.com/spreadsheets/d/1ute2lK8Qle8xcUdlAYO0OQMJZKA7FJgIBkYO8DNEYrA/edit?usp=sharing.
 
 ## Credits (and licenses)
 Originally developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
